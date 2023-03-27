@@ -1,0 +1,8 @@
+D:\Programming\Zionet\C#\BinFilesAndStructs\BinFilesAndStructs\bin\Debug\BinFilesAndStructs.exe.config
+D:\Programming\Zionet\C#\BinFilesAndStructs\BinFilesAndStructs\bin\Debug\BinFilesAndStructs.exe
+D:\Programming\Zionet\C#\BinFilesAndStructs\BinFilesAndStructs\bin\Debug\BinFilesAndStructs.pdb
+D:\Programming\Zionet\C#\BinFilesAndStructs\BinFilesAndStructs\obj\Debug\BinFilesAndStructs.csproj.AssemblyReference.cache
+D:\Programming\Zionet\C#\BinFilesAndStructs\BinFilesAndStructs\obj\Debug\BinFilesAndStructs.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Zionet\C#\BinFilesAndStructs\BinFilesAndStructs\obj\Debug\BinFilesAndStructs.csproj.CoreCompileInputs.cache
+D:\Programming\Zionet\C#\BinFilesAndStructs\BinFilesAndStructs\obj\Debug\BinFilesAndStructs.exe
+D:\Programming\Zionet\C#\BinFilesAndStructs\BinFilesAndStructs\obj\Debug\BinFilesAndStructs.pdb
